@@ -1,0 +1,4 @@
+AuthType Basic
+AuthUserFile /var/www/WebDiP/2021_projekti/WebDiP2021x092/privatno/.htpasswd
+AuthName "Administracija sustava"
+Require valid-user

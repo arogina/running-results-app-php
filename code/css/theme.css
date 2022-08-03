@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;0,700;1,400&family=Poppins:wght@400;700&display=swap');
+
+:root {
+    /* COLORS */
+    --color-primary: #adcbe3;
+    --color-secondary: #e7eff6;
+    --color-navbar: #dfe3ee;
+    --color-button: #4b86b4;
+    --color-button-hover: #63ace5;
+    --color-footer: #2a4d69;
+    --text-primary: #000;
+    --text-secondary: #fff;
+
+    /* FONTS */
+    --font-primary: 'Poppins', sans-serif;
+    --font-secondary: 'Kanit', sans-serif;
+}
